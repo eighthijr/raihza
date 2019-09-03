@@ -9,26 +9,26 @@ permalink: /menu/
   <p>Page Description</p>
 </div>
 
-<div class="menu-container">
-  <div class="menu-item">
+<div class="story-container">
+  <div class="story-item">
     <h5>Senin</h5>
   </div>
-  <div class="menu-item">
+  <div class="story-item">
     <h5>Senin</h5>
   </div>
-  <div class="menu-item">
+  <div class="story-item">
     <h5>Senin</h5>
   </div>
-  <div class="menu-item">
+  <div class="story-item">
     <h5>Senin</h5>
   </div>
-  <div class="menu-item">
+  <div class="story-item">
     <h5>Senin</h5>
   </div>
-  <div class="menu-item">
+  <div class="story-item">
     <h5>Senin</h5>
   </div>
-  <div class="menu-item">
+  <div class="story-item">
     <h5>Senin</h5>
   </div>
 </div>
