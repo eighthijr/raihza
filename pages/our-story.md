@@ -5,7 +5,7 @@ permalink: /our-story/
 ---
 
 <div class="page-description">
-  <h3>Menu</h3>
+  <h3>Our Story</h3>
   <p>Page Description</p>
 </div>
 
