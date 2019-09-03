@@ -263,3 +263,24 @@ ul, li {
     grid-column: span 12;
   }
 }
+
+.story-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 1rem;
+  
+  margin: 0 0 1rem 0;
+}
+
+.story-item {
+  grid-column: span 6;
+  
+  padding: 1rem 1rem 0rem;
+  background-color: #f2f2f2;
+}
+
+@media (max-width: 720px) {
+  .story-item {
+    grid-column: span 12;
+  }
+}
