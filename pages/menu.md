@@ -10,15 +10,17 @@ permalink: /menu/
 </div>
 
 <div class="menu-container">
+  
   <div class="menu-item">
     <h5>Senin</h5>
     <ul>
-      <li class="bubur-halus">Beras Merah<li>
+      <li class="bubur-halus">Beras Merah</li>
       <li class="bubur-halus">Daging</li>
       <li class="bubur-kasar">Ikan Salmon</li>
       <li class="bubur-kasar">Ayam</li>
     </ul>
   </div>
+  
   <div class="menu-item">
     <h5>Selasa</h5>
     <ul>
@@ -28,6 +30,7 @@ permalink: /menu/
       <li class="bubur-kasar">Daging</li>
     </ul>
   </div>
+  
   <div class="menu-item">
     <h5>Rabu</h5>
     <ul>
@@ -37,6 +40,7 @@ permalink: /menu/
       <li class="bubur-kasar">Ayam</li>
     </ul>
   </div>
+  
   <div class="menu-item">
     <h5>Kamis</h5>
     <ul>
@@ -46,6 +50,7 @@ permalink: /menu/
       <li class="bubur-kasar">Beras Merah</li>
     </ul>
   </div>
+  
   <div class="menu-item">
     <h5>jum'at</h5>
     <ul>
@@ -55,6 +60,7 @@ permalink: /menu/
       <li class="bubur-kasar">Ati</li>
     </ul>
   </div>
+  
   <div class="menu-item">
     <h5>sabtu</h5>
     <ul>
@@ -64,6 +70,7 @@ permalink: /menu/
       <li class="bubur-kasar">Telor Keju</li>
     </ul>
   </div>
+  
   <div class="menu-item">
     <h5>Ahad</h5>
     <ul>
@@ -73,4 +80,5 @@ permalink: /menu/
       <li class="bubur-halus">Beras Merah</li>
     </ul>
   </div>
+  
 </div>
