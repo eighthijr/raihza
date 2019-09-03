@@ -91,7 +91,7 @@ ul, li {
 }
 
 .x__1 {
-  grid-column: span 8;
+  grid-column: span 12;
 }
 
 @media (max-width: 720px) {
@@ -126,6 +126,7 @@ ul, li {
 }
 
 .x__2 {
+  display: none;
   grid-column:  span 4;
   
   position: sticky;
