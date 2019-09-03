@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  
+<body>
+
+  {% include preloader.html %}
+  
+  <div class="x">
+    <div class="x__1">
+      <div class="x__1__1">
+        
+        {% include x__1__1__1.html %}
+        
+        {% include x__1__1__2.html %}
+        
+        {% include x__1__1__3.html %}
+
+      </div>
+      
+      {% include x__1__4 %}
+      
+    </div>
+    <div class="x__2">
+      <div class="x__2__1">
+        <h5>Opening Time</h5>
+        <p>
+          <small>
+            Kami Buka Setiap Hari<br>
+            Pagi, 05:30 s/d 09:30<br>
+            Sore, 16:00 s/d 17:45
+          </small>
+        </p>
+      </div>
+      <div class="x__2__2">
+        <nav class="x__2__2__1">
+          <a href="#">Our Story</a>
+          <a href="#">Menu</a>
+          <a href="#">Outlet</a>
+          <a href="#">Partnership</a>
+        </nav>
+        <p class="x__2__2__2">
+          &copy; Bubur Bayi Organik Raihza 2019<br>
+          <small>
+           Designed and built by 
+           <a href="#">Eighthijr Studio Team</a>.
+          </small>
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript">
+  (function($){
+    'use strict';
+    $(window).on('load', function () {
+      if ($(".preloader").length > 0) {
+        $(".preloader").fadeOut("slow");
+      }
+    });
+  })(jQuery)
+  </script>
+  
+</body>
+</html>
