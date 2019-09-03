@@ -10,25 +10,21 @@ permalink: /our-story/
 </div>
 
 <div class="story-container">
+  
   <div class="story-item">
-    <h5>Senin</h5>
+    <h4>2001</h4>
+    <h4>Awal Cerita</h4>
+    <p>
+      Stories goes here
+    </p>
   </div>
+  
   <div class="story-item">
-    <h5>Senin</h5>
+    <h4>2001</h4>
+    <h4>Awal Cerita</h4>
+    <p>
+      Stories goes here
+    </p>
   </div>
-  <div class="story-item">
-    <h5>Senin</h5>
-  </div>
-  <div class="story-item">
-    <h5>Senin</h5>
-  </div>
-  <div class="story-item">
-    <h5>Senin</h5>
-  </div>
-  <div class="story-item">
-    <h5>Senin</h5>
-  </div>
-  <div class="story-item">
-    <h5>Senin</h5>
-  </div>
+  
 </div>
