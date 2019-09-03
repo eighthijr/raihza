@@ -260,7 +260,7 @@ ul, li {
 .outlet-item {
   grid-column: span 6;
   
-  padding: 1rem 1rem 0rem;
+  padding: 1rem;
   background-color: #f2f2f2;
 }
 
