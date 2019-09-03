@@ -52,7 +52,7 @@ permalink: /menu/
   </div>
   
   <div class="menu-item">
-    <h5>jum'at</h5>
+    <h5>Jum'at</h5>
     <ul>
       <li class="bubur-halus">Beras Merah</li>
       <li class="bubur-halus">Ayam</li>
@@ -62,7 +62,7 @@ permalink: /menu/
   </div>
   
   <div class="menu-item">
-    <h5>sabtu</h5>
+    <h5>Sabtu</h5>
     <ul>
       <li class="bubur-halus">Ati</li>
       <li class="bubur-halus">Ikan Salmon</li>
@@ -82,3 +82,9 @@ permalink: /menu/
   </div>
   
 </div>
+
+<p>
+  Keterangan:<br>
+  <span class="bubur-halus">Bubur Halus</span><br>
+  <span class="bubur-kasar">Bubur Kasar</span>
+</p>
