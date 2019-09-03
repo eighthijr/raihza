@@ -99,4 +99,12 @@ permalink: /our-story/
     </p>
   </div>
   
+  <div class="story-item">
+    <h4>2001</h4>
+    <h4>Awal Cerita</h4>
+    <p>
+      Stories goes here
+    </p>
+  </div>
+  
 </div>
