@@ -57,7 +57,7 @@
     'use strict';
     $(window).on('load', function () {
       if ($(".preloader").length > 0) {
-        $(".preloader").fadeOut(5000);
+        $(".preloader").delay(2000).fadeOut("fast");
       }
     });
   })(jQuery)
