@@ -300,6 +300,15 @@ ul, li {
   width: 5rem;
   height: 5rem;
   background: #6EBF34;
+  border-top: 2px solid blue;
+  border-radius
+  transform: rotate(0deg);
+  transition: transform ease .4s;
+}
+
+.imitative-brand:hover {
+  transform: rotate(180deg);
+  transition: transform ease .4s;
 }
 
 .button {
