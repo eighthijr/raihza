@@ -301,7 +301,7 @@ ul, li {
   height: 5rem;
   background: #6EBF34;
   border-top: 2px solid blue;
-  border-radius
+  border-radius: 50%;
   transform: rotate(0deg);
   transition: transform ease .4s;
 }
