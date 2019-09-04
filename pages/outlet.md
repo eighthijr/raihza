@@ -14,22 +14,22 @@ permalink: /outlet/
 <div class="outlet-container">
   <div class="outlet-item">
     <h5>Outlet Pasar Graha</h5>
-    <p>Depan Area Parkir Pasar Graha Prima, Kel. Mangunjaya, Kec. Tambun Selatan</p>
+    <p>Depan Area Parkir Pasar Graha Prima, Ds. Mangunjaya, Kec. Tambun Selatan</p>
     <button class="button">Dapatkan Arah</button>
   </div>
   <div class="outlet-item">
     <h5>Outlet Bunderan Graha Prima</h5>
-    <p>Jln.Perumahan Graha Prima blok CA no 18. Kel. Mangunjaya, Kec. Tambun Selatan</p>
+    <p>Jln.Perumahan Graha Prima blok CA no 18. Ds. Mangunjaya, Kec. Tambun Selatan</p>
     <button class="button">Dapatkan Arah</button>
   </div>
   <div class="outlet-item">
     <h5>Outlet Graha Baru</h5>
-    <p>Samping Indomaret Graha Prima Baru blok L2. Kel. Mangunjaya, Kec. Tambun Selatan</p>
+    <p>Samping Indomaret Graha Prima Baru blok L2. Ds. Mangunjaya, Kec. Tambun Selatan</p>
     <button class="button">Dapatkan Arah</button>
   </div>
   <div class="outlet-item">
     <h5>Outlet Vila Bekasi 1</h5>
-    <p>Depan Jln. Vila Bekasi (sebrang sekolah Al-Munir), Kel. Mangunjaya, Kec. Tambun Selatan</p>
+    <p>Depan Jln. Vila Bekasi (sebrang sekolah Al-Munir), Ds. Mangunjaya, Kec. Tambun Selatan</p>
     <button class="button">Dapatkan Arah</button>
   </div>
   <div class="outlet-item">
@@ -39,12 +39,12 @@ permalink: /outlet/
   </div>
   <div class="outlet-item">
     <h5>Outlet MI Nurul Jannah</h5>
-    <p>Sebrang Sekolah MI Nurul Jannah, Kp. Siluman, jl. Raya Mangunjaya/jl. Pendidikan Mangunjaya, Kec. Tambun Selatan</p>
+    <p>Sebrang Sekolah MI Nurul Jannah, Kp. Siluman, Jln. Raya Mangunjaya / Jln. Pendidikan Mangunjaya, Kec. Tambun Selatan</p>
     <button class="button">Dapatkan Arah</button>
   </div>
   <div class="outlet-item">
     <h5>Outlet Green Jalen</h5>
-    <p>Area Parkir Ruko Perumahan Green D Jalen dekat Pulo puter Jejalen, Kec. Tambun Utara</p>
+    <p>Area Parkir Ruko Perumahan Green D Jaten dekat Pulo puter Jejalen, Kec. Tambun Utara</p>
     <button class="button">Dapatkan Arah</button>
   </div>
 </div>
