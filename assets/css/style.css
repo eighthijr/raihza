@@ -295,16 +295,15 @@ ul, li {
 }
 
 .imitative-brand {
-  margin: 0 0 1rem 0;
   width: 5rem;
   height: 5rem;
-  background: blue;
+  background: #6EBF34;
 }
 
 .button {
   border: none;
   
-	display: inline-block;
+  display: inline-block;
   margin: 0 .125rem .5rem 0;
   padding: 4px 8px;
   font-family: "Segoe UI", sans-serif;
