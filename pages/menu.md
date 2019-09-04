@@ -7,7 +7,6 @@ permalink: /menu/
 <div class="page-description">
   <h3>Menu</h3>
   <p>Page Description</p>
-  {{ page.url }}
 </div>
 
 <div class="menu-container">
