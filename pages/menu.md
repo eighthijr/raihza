@@ -6,7 +6,9 @@ permalink: /menu/
 
 <div class="page-description">
   <h3>Menu</h3>
-  <p>Page Description</p>
+  <p>
+    Kami membuat berbagai macam varian bubur bayi, supaya si kecil tidak mudah bosan, dan tetap terjaga gizinya.
+  </p>
 </div>
 
 <div class="menu-container">
