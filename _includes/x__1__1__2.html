@@ -1,7 +1,11 @@
 <div class="x__1__1__2">
-  <a href="{{ "/" | relative_url }}">Home</a>
-  <a href="{{ "/our-story/" | relative_url }}">Our Story</a>
-  <a href="{{ "/menu/" | relative_url }}">Menu</a>
-  <a href="{{ "/outlet/" | relative_url }}">Outlet</a>
-  <a href="{{ "/partnership/" | relative_url }}">Partnership</a>
+  {% for p in site.data.navs %}
+  <a
+     {%- if p.link == '/' -%}
+       {% if page.url == p.link %} class="button active" {%- endif %}
+     {%- else -%}
+       {% if page.url contains p.link %} class="button active" {%- endif %}
+     {%- endif -%}
+     
+     href="{{ p.link }}">{{ p.title }}</a>
 </div>
