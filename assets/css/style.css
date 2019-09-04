@@ -300,14 +300,13 @@ ul, li {
   width: 5rem;
   height: 5rem;
   background: #6EBF34;
-  border-top: 2px solid blue;
   border-radius: 50%;
   transform: rotate(0deg);
   transition: transform ease .4s;
 }
 
 .imitative-brand:hover {
-  transform: rotate(180deg);
+  transform: rotate(360deg);
   transition: transform ease .4s;
 }
 
