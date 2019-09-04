@@ -1,12 +1,11 @@
 <div class="x__1__1__2">
   {% for p in site.data.navs %}
-  <a
+  <a href="{{ p.link }}" 
      {%- if p.link == '/' -%}
        {% if page.url == p.link %} class="button active" {%- endif %}
      {%- else -%}
        {% if page.url contains p.link %} class="button active" {%- endif %}
      {%- endif -%}
-     
-     href="{{ p.link }}">{{ p.title }}</a>
+     >{{ p.title }}</a>
   {% endfor %}
 </div>
